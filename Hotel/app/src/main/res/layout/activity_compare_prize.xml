@@ -12,11 +12,11 @@
             android:layout_width="50dp"
             android:layout_height="wrap_content"
             android:textSize="40dp"
-            android:text="<"/>
+            android:text="原来是个尖括号"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="<<非暴力沟通>>"
+            android:text="《非暴力沟通》"
             android:textSize="40dp"
             android:layout_marginLeft="50dp"
             />

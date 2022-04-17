@@ -20,6 +20,27 @@
         <entry key="..\:/Software/ANDROID/Hotel (2)/Hotel/app/src/main/res/layout/activity_register.xml" value="0.22826086956521738" />
         <entry key="..\:/Software/ANDROID/Hotel (2)/Hotel/app/src/main/res/layout/activity_register2.xml" value="0.22826086956521738" />
         <entry key="..\:/Software/ANDROID/Hotel (2)/Hotel/app/src/main/res/layout/activity_select.xml" value="0.2548262548262548" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/drawable/bg_layout_border.xml" value="0.129" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/drawable/ic_baseline_explore_fill.xml" value="0.1745" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/drawable/ic_baseline_explore_stroke.xml" value="0.1745" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/drawable/ic_baseline_home_fill.xml" value="0.1745" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/drawable/ic_baseline_home_stroke.xml" value="0.1745" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/drawable/ic_baseline_message_fill.xml" value="0.129" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/drawable/ic_baseline_perm_contact_stroke.xml" value="0.129" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/layout/account_icon_layout.xml" value="0.13632246376811594" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/layout/activity_compare_prize.xml" value="0.1" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/layout/activity_forgetpassword.xml" value="0.12395833333333334" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/layout/activity_home.xml" value="0.12395833333333334" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/layout/activity_register2.xml" value="0.1" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/layout/contact_icon_layout.xml" value="0.1" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/layout/explore_icon_layout.xml" value="0.1" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/layout/fragment_account.xml" value="0.12395833333333334" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/layout/fragment_contact.xml" value="0.12395833333333334" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/layout/fragment_explore.xml" value="0.12395833333333334" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/layout/fragment_message.xml" value="0.12395833333333334" />
+        <entry key="..\:/androidGroupGithub/AndroidHomework/Hotel/app/src/main/res/layout/message_icon_layout.xml" value="0.1" />
       </map>
     </option>
   </component>

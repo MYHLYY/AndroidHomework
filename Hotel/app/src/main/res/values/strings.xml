@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">淘书城</string>
+    <string name="message_icon_title">消息</string>
+    <string name="contact_icon_title">主页</string>
+    <string name="explorer_icon_title">发现</string>
+    <string name="account_icon_title">我</string>
 </resources>
