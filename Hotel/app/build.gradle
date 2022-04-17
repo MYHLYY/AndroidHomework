@@ -38,7 +38,7 @@ dependencies {
 
     //gson
     implementation 'com.google.code.gson:gson:2.8.6'
-    //网络请求
+    //网络请求pzz
     implementation 'com.squareup.okhttp3:okhttp:4.4.0'
     implementation 'com.squareup.okhttp3:logging-interceptor:4.4.0'
 }
