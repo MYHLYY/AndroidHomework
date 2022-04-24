@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--线性布局  rootlayout根布局-->
+
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+
+android:clickable="true"
+android:onClick="clickHandler">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="no?"
+    android:textColor="@color/white"
+    android:layout_centerHorizontal="true"
+    android:drawableLeft="@mipmap/select_photo1"
+    android:drawablePadding="10dp"
+    android:padding="10dp"
+    android:gravity="center"
+    android:textSize="21sp"/>
+
+</RelativeLayout>
